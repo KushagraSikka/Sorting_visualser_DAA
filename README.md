@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/shubh67678/sorting-visualizer/blob/master/image/gif.gif)
+![Project Image](https://github.com/kushagrasikka/sorting-visualizer/blob/master/image/gif.gif)
 
 > [Live demo](https://kushagrasikka.github.io/Sorting_visualser_DAA.github.io/)
 
